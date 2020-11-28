@@ -3,7 +3,7 @@
 ## I'm a Developer, Gamer, Student, and Self learner!!
 
 - 🌱 I’m currently learning JavaScript 🤣
-- 🔭 Take a few minutes to look at my [Portfolio][https://shiharadilshan.netlify.app/]!
+- 🔭 Take a few minutes to look at my (Portfolio)[Portfolio]!
 - 👯 I'm currently looking for any opportunity that I can get for prove my self.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code and play Dota.
@@ -62,7 +62,7 @@
 </details>
 
 [vscode]: https://code.visualstudio.com/
-[course]: http://vsCodeHero.com
+[Portfolio]: https://shiharadilshan.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/shihara_dil/
