@@ -1,4 +1,5 @@
 ### Hi there, I'm Shihara Dilshan [NoobStack][website] 👋
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=shiharadilshan.visitor-badge)
 
 ## I'm a Developer, Gamer, Student, and Self learner!!
 
