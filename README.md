@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Gamer, Student, and Self learner!!
 
-- 🌱 My ultimate goal is to contribute to the Linux kernal. 🤣
+- 🌱 My ultimate goal is to contribute to the Linux kernal.
 - 🔭 Take a few minutes to look at my [Portfolio]!
 - 👯 I'm currently looking for any opportunity that I can get for prove my self.
 - 🥅 Javascript is my favourite language.
