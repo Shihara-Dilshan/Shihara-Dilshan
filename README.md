@@ -1,12 +1,12 @@
-### Hi there, I'm Shihara Dilshan [NoobStack][website] 👋
+### Hi there, I'm Shihara Dilshan [Portfolio] 👋
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=shiharadilshan.visitor-badge)
 
 ## I'm a Developer, Gamer, Student, and Self learner!!
 
-- 🌱 I’m currently learning JavaScript 🤣
+- 🌱 My ultimate goal is to contribute to the Linux kernal. 🤣
 - 🔭 Take a few minutes to look at my [Portfolio]!
 - 👯 I'm currently looking for any opportunity that I can get for prove my self.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Javascript is my favourite language.
 - ⚡ Fun fact: I love to Code and play Dota.
 
 ### Connect with me:
@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+![<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][vscode]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][vscode]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][vscode]
