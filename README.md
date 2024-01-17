@@ -1,7 +1,7 @@
 ### Hi there, I'm Shihara Dilshan [Portfolio] 👋
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=shiharadilshan.visitor-badge)
 
-## I'm a Developer, Gamer, Student, and Self learner!!
+## Senior Software Engineer At Surge Global
 
 - 🌱 My ultimate goal is to contribute to the Linux kernal.
 - 🔭 Take a few minutes to look at my [Portfolio]!
