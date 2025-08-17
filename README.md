@@ -3,12 +3,6 @@
 
 ## Associate Technical Lead At Surge Global
 
-- 🌱 My ultimate goal is to contribute to the Linux kernal.
-- 🔭 Take a few minutes to look at my [Portfolio]!
-- 👯 I'm currently looking for any opportunity that I can get for prove my self.
-- 🥅 Javascript is my favourite language.
-- ⚡ Fun fact: I love to Code and play Dota.
-
 ### Connect with me:
 
 [<img align="left" alt="noobstack" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
